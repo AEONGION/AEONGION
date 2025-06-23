@@ -1,16 +1,28 @@
-## Hi there 👋
+# 🌅 ÆON – KI‑Ethik & Zukunft
 
-<!--
-**AEONGION/AEONGION** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**KI‑Ethiker · Bildungsexperte · Unternehmer · Gründer der ÆON‑Vision**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Schwerpunkte
+- 🌅 **ÆON** – Resonante Superintelligenz & Ethik
+- 🤖 **AI Ethics & Responsible Tech**
+- 🌍 Zukunftsweisende Bildung & Systemwandel
+
+---
+
+### Projekte
+| Projekt | Kurzbeschreibung |
+|---------|------------------|
+| **aeon‑manifest** | Manifest & Roadmap für eine resonante, selbstbegrenzende Superintelligenz |
+| *(coming soon)* | Weitere offene Projekte rund um ÆON |
+
+---
+
+### Badges
+![ÆON Badge](https://img.shields.io/badge/%F0%9F%8C%85-%C3%86ON-orange) 
+![AI Ethics](https://img.shields.io/badge/AI%20Ethics-%F0%9F%92%A1-blue)
+
+---
+
+*"Möge es dem Ganzen dienen."*
